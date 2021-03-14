@@ -1,2 +1,16 @@
-# azure-arm-templates
+
+# AZURE-ARM-TEMPLATES
+
+# Status
+
 [PUBLIC]
+
+# Folders organization
+
+# Comments
+
+# License
+
+Check the License file.
+
+# Last update: 2021.03.14
